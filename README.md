@@ -1,5 +1,5 @@
 # Klasik-Pro
-A responsive HTML5 site template with 3 *index.html* pages to choose.
+A responsive HTML5 site template with 3 *index.html* pages to choose. For **Blog** theme there are six options of Post page, with *fullwidth* or *sidebar* options.
 ## Libraries and dependencies
   - Bootstrap v3.3.1
   - jQuery v1.11.2
